@@ -4,6 +4,8 @@
 
 Adjusting a website's code to meet accesibility standards by adding semantic elements, alt attributes on images, and a descriptive title.
 
+[Deployed webpage](https://marikokaku.github.io/code-refractor/)
+
 ## Installation 
 
 Visual studio code with 
